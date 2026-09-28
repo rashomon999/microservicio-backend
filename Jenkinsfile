@@ -1,4 +1,4 @@
-@Library('iaslab-pipeline-library@v1.0') _
+@Library('iaslab-pipeline-library@v1.1') _
 
 standardPipeline(
     serviceName: 'microservicio-backend',
